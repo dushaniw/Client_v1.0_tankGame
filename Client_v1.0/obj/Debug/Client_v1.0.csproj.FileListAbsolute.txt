@@ -1,0 +1,8 @@
+E:\semester 4 -2015\Client_v1.0\Client_v1.0\bin\Debug\Client_v1.0.exe.config
+E:\semester 4 -2015\Client_v1.0\Client_v1.0\bin\Debug\Client_v1.0.exe
+E:\semester 4 -2015\Client_v1.0\Client_v1.0\bin\Debug\Client_v1.0.pdb
+E:\semester 4 -2015\Client_v1.0\Client_v1.0\obj\Debug\Client_v1.0.csprojResolveAssemblyReference.cache
+E:\semester 4 -2015\Client_v1.0\Client_v1.0\obj\Debug\Client_v1.0.exe
+E:\semester 4 -2015\Client_v1.0\Client_v1.0\obj\Debug\Client_v1.0.pdb
+E:\semester 4 -2015\Client_v1.0\Client_v1.0\obj\Debug\Client_v1._0.GameGUI.resources
+E:\semester 4 -2015\Client_v1.0\Client_v1.0\obj\Debug\Client_v1.0.csproj.GenerateResource.Cache
